@@ -21,6 +21,18 @@ cp -R xiaofang-skill/xiaofang ~/.codex/skills/xiaofang
 ~/.codex/skills/xiaofang/scripts/xf.sh setup
 ```
 
+## 一句话安装完整发行包
+
+```bash
+curl -fsSL https://raw.githubusercontent.com/mestomesto676-prog/xiaofang-skill/main/install.sh | bash
+```
+
+也可以直接把这句话发给 Codex：
+
+```text
+请从 https://github.com/mestomesto676-prog/xiaofang-skill 安装完整的小方 Skill，并运行 install.sh。
+```
+
 `.runtime` 与 `node_modules` 没有上传；首次使用时运行 `xf.sh setup` 即可重建环境。
 
 ## 备份与复原
