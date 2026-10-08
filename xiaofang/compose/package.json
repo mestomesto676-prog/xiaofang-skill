@@ -1,0 +1,21 @@
+{
+  "name": "xiaofang-compose",
+  "private": true,
+  "description": "小方视频 v0.2 合成层：Remotion（参数化包装模板）+ HyperFrames（最终合成：字幕/配音/BGM 闪避/9:16 输出）。只在本目录安装，不装全局。",
+  "type": "module",
+  "dependencies": {
+    "@hyperframes/core": "0.8.140",
+    "@remotion/cli": "4.0.534",
+    "@remotion/media-utils": "4.0.534",
+    "gsap": "3.15.0",
+    "hyperframes": "0.8.140",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "remotion": "4.0.534",
+    "zod": "4.5.4"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "//": "版本钉死：Remotion 停在 4.x（5.0 会换新许可，见 SKILL.md「许可」）；升级前先读新 LICENSE。"
+}
