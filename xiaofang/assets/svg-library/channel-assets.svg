@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256">
+  <title>生活大于考研频道 SVG 素材精灵</title>
+  <defs>
+    <style>.line{fill:none;stroke:currentColor;stroke-width:12;stroke-linecap:round;stroke-linejoin:round}</style>
+    <symbol id="person-standing" viewBox="0 0 256 256"><circle class="line" cx="128" cy="48" r="30"/><path class="line" d="M87 115c4-25 19-38 41-38s37 13 41 38l13 60c3 13-5 23-16 23-8 0-14-5-16-14l-7-31v72c0 12-7 20-16 20s-16-8-16-20v-42 42c0 12-7 20-16 20s-16-8-16-20v-72l-7 31c-2 9-8 14-16 14-11 0-19-10-16-23z"/></symbol>
+    <symbol id="person-thinking" viewBox="0 0 256 256"><circle class="line" cx="133" cy="48" r="30"/><path class="line" d="M91 226v-103c0-27 16-46 42-46 25 0 42 19 42 46v103zM83 144l32 18 26-48M141 114l22-32"/></symbol>
+    <symbol id="person-pointing" viewBox="0 0 256 256"><circle class="line" cx="92" cy="48" r="30"/><path class="line" d="M59 226v-99c0-30 14-50 39-50 18 0 30 9 38 27l71-40c11-6 22 8 13 17l-71 55c-11 9-24 8-34 0v90M92 163v63"/></symbol>
+    <symbol id="person-studying" viewBox="0 0 256 256"><circle class="line" cx="128" cy="47" r="29"/><path class="line" d="M65 139c4-42 26-63 63-63s59 21 63 63M32 177h192M52 169c26-20 51-20 76 0 25-20 50-20 76 0v59c-26-15-51-15-76 0-25-15-50-15-76 0z"/></symbol>
+    <symbol id="person-anxious" viewBox="0 0 256 256"><circle class="line" cx="128" cy="52" r="30"/><path class="line" d="M84 226v-96c0-31 16-49 44-49s44 18 44 49v96M92 111l25 44M164 111l-25 44M202 30l12-13M210 55h18M54 30 42 17M46 55H28"/></symbol>
+    <symbol id="person-running" viewBox="0 0 256 256"><circle class="line" cx="145" cy="46" r="28"/><path class="line" d="m130 79-32 49-55 21M103 120l55 28 45-36M114 165l-49 65M148 146l42 73"/></symbol>
+    <symbol id="book-stack" viewBox="0 0 256 256"><path class="line" d="M39 55h160l18 22-18 22H39c-16 0-16-44 0-44zM57 99h160c16 0 16 44 0 44H57l-18-22zM39 143h160l18 22-18 22H39c-16 0-16-44 0-44zM57 187h160c16 0 16 44 0 44H57l-18-22z"/></symbol>
+    <symbol id="open-book" viewBox="0 0 256 256"><path class="line" d="M24 55c40-13 75-7 104 17v142c-29-24-64-30-104-17zM232 55c-40-13-75-7-104 17v142c29-24 64-30 104-17zM51 98h50M51 128h50M155 98h50M155 128h50"/></symbol>
+    <symbol id="exam-paper" viewBox="0 0 256 256"><path class="line" d="M51 24h113l41 41v167H51zM164 24v41h41M80 105l12 12 24-27M133 108h42M80 153l12 12 24-27M133 156h42M80 201h95"/></symbol>
+    <symbol id="formula-card" viewBox="0 0 256 256"><rect class="line" x="25" y="45" width="206" height="166" rx="18"/><path class="line" d="m55 102 14 15 25-35M119 98h73M55 160c18-31 33 31 51 0s33 31 51 0M178 160h23"/></symbol>
+    <symbol id="clock" viewBox="0 0 256 256"><circle class="line" cx="128" cy="128" r="101"/><circle class="line" cx="128" cy="128" r="82"/><path class="line" d="M128 75v58l39 24"/></symbol>
+    <symbol id="calendar" viewBox="0 0 256 256"><rect class="line" x="35" y="51" width="186" height="172" rx="18"/><path class="line" d="M35 91h186M78 31v39M178 31v39M72 130h32M112 130h32M152 130h32M72 170h32M112 170h32M152 170h32"/></symbol>
+    <symbol id="hourglass" viewBox="0 0 256 256"><path class="line" d="M66 27h124M66 229h124M78 27c0 46 14 65 50 101-36 36-50 55-50 101M178 27c0 46-14 65-50 101 36 36 50 55 50 101M100 68h56M100 188h56"/></symbol>
+    <symbol id="score-plus" viewBox="0 0 256 256"><circle class="line" cx="128" cy="128" r="99"/><path class="line" d="M128 78v100M78 128h100"/></symbol>
+    <symbol id="score-loss" viewBox="0 0 256 256"><circle class="line" cx="128" cy="128" r="99"/><path class="line" d="m88 88 80 80M168 88l-80 80"/></symbol>
+    <symbol id="fork-road" viewBox="0 0 256 256"><path class="line" d="M128 226V136M128 136c0-39-26-61-70-83M128 136c0-39 26-61 70-83M44 72l14-19 24 5M212 72l-14-19-24 5"/></symbol>
+    <symbol id="target" viewBox="0 0 256 256"><ellipse class="line" cx="112" cy="164" rx="86" ry="55"/><ellipse class="line" cx="112" cy="164" rx="55" ry="34"/><ellipse class="line" cx="112" cy="164" rx="22" ry="13"/><path class="line" d="M112 164V35M112 35h74l-19 23 19 24h-74"/></symbol>
+    <symbol id="diary" viewBox="0 0 256 256"><rect class="line" x="52" y="25" width="151" height="206" rx="18"/><path class="line" d="M83 25v206M177 105h39c13 0 13 46 0 46h-39zM105 73h66M105 177h66"/></symbol>
+    <symbol id="loop" viewBox="0 0 256 256"><path class="line" d="M53 89c20-44 78-62 122-38 13 7 23 16 31 28M206 79l-5-35M206 79l-35-4M203 167c-20 44-78 62-122 38-13-7-23-16-31-28M50 177l5 35M50 177l35 4"/></symbol>
+    <symbol id="insight" viewBox="0 0 256 256"><path class="line" d="M78 107c0-35 22-61 50-61s50 26 50 61c0 23-11 37-25 51-9 9-11 18-11 27h-28c0-9-2-18-11-27-14-14-25-28-25-51zM108 209h40M116 231h24M128 20V7M55 50 42 37M201 50l13-13M48 111H29M227 111h-19"/></symbol>
+  </defs>
+</svg>
