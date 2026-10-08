@@ -1,0 +1,8 @@
+{
+  "grammar": "xf_template",
+  "duration": 6,
+  "fps": 30,
+  "width": 1080,
+  "height": 1920,
+  "data": { "title": "每天一点点，\n看不见也在涨。", "key": "一点点", "exp": "happy" }
+}

@@ -1,0 +1,18 @@
+{
+ "grammar": "xf_liangbian",
+ "duration": 15,
+ "fps": 30,
+ "width": 1080,
+ "height": 1920,
+ "data": {
+  "line1": "没感觉，",
+  "line2": "不等于没进步。",
+  "ylabel": "感觉",
+  "qty": "量变",
+  "qual": "质变"
+ },
+ "cues": [],
+ "safe": {
+  "bottom": 520
+ }
+}
